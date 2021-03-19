@@ -1,0 +1,7 @@
+/Users/dreamy/Projects/awPracticeCode/Pizza-app/frontend/backend/obj/Debug/net5.0/backend.csprojAssemblyReference.cache
+/Users/dreamy/Projects/awPracticeCode/Pizza-app/frontend/backend/obj/Debug/net5.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dreamy/Projects/awPracticeCode/Pizza-app/frontend/backend/obj/Debug/net5.0/backend.AssemblyInfoInputs.cache
+/Users/dreamy/Projects/awPracticeCode/Pizza-app/frontend/backend/obj/Debug/net5.0/backend.AssemblyInfo.cs
+/Users/dreamy/Projects/awPracticeCode/Pizza-app/frontend/backend/obj/Debug/net5.0/backend.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/awPracticeCode/Pizza-app/frontend/backend/obj/Debug/net5.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/dreamy/Projects/awPracticeCode/Pizza-app/frontend/backend/obj/Debug/net5.0/backend.MvcApplicationPartsAssemblyInfo.cache
